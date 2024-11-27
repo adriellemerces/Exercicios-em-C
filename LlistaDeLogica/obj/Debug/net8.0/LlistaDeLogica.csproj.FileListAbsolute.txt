@@ -1,0 +1,14 @@
+C:\Users\adrie\source\repos\LlistaDeLogica\bin\Debug\net8.0\LlistaDeLogica.exe
+C:\Users\adrie\source\repos\LlistaDeLogica\bin\Debug\net8.0\LlistaDeLogica.deps.json
+C:\Users\adrie\source\repos\LlistaDeLogica\bin\Debug\net8.0\LlistaDeLogica.runtimeconfig.json
+C:\Users\adrie\source\repos\LlistaDeLogica\bin\Debug\net8.0\LlistaDeLogica.dll
+C:\Users\adrie\source\repos\LlistaDeLogica\bin\Debug\net8.0\LlistaDeLogica.pdb
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.AssemblyInfoInputs.cache
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.AssemblyInfo.cs
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.dll
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\refint\LlistaDeLogica.dll
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.pdb
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\LlistaDeLogica.genruntimeconfig.cache
+C:\Users\adrie\source\repos\LlistaDeLogica\obj\Debug\net8.0\ref\LlistaDeLogica.dll
